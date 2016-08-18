@@ -16,6 +16,13 @@
         <dex dex="/home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8532373462742b483f20d35850473bffc1aa8c81.jar" />
     </item>
     <item
+        jar="/home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_061b444e8ff0e33c5e3f8673d45b805af61289cd.jar" />
+    </item>
+    <item
         jar="/home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         revision="24.0.1"
@@ -49,6 +56,13 @@
         revision="24.0.1"
         sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
         <dex dex="/home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_0006d8263978c166d09584dcf4084d24e4fbfaa8.jar" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_7a3c77c123fd8dcfedbd1dac08d5ca2c7fdc7d8d.jar" />
     </item>
     <item
         jar="/home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"

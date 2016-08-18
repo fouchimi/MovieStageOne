@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main
 	android:name
 		ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:7:5-20:19
+ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:7:5-24:19
 MERGED from [com.android.support:appcompat-v7:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
@@ -57,6 +57,48 @@ MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/Andr
 MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:10:9-41
 	android:supportsRtl
@@ -81,6 +123,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
 		ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.ousmane.movies.DetailActivity
+ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:20:9-23:68
+	android:label
+		ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:22:13-58
+	android:theme
+		ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml:21:13-43
 uses-sdk
 INJECTED from /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:21:5-23:78
@@ -118,6 +168,49 @@ MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStu
 MERGED from [com.android.support:support-core-utils:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:24.2.0] /home/ousmane/AndroidStudioProjects/MovieStageOne/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
