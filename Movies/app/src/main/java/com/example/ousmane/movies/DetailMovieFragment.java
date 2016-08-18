@@ -54,7 +54,7 @@ public class DetailMovieFragment extends Fragment {
             TextView mSynopsisTextView = (TextView) view.findViewById(R.id.detail_synopsis);
             mSynopsisTextView.setText("Description: " + movie.getSynopsis());
 
-            ImageView mThumbnailImageView = (ImageView) view.findViewById(R.id.image_thumbnail);
+            ImageView mThumbnailImageView = (ImageView) view.findViewById(R.id.detail_thumbnail);
             Picasso.with(getActivity())
                     .load(movie.getImage())
                     .into(mThumbnailImageView);
